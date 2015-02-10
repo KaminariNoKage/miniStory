@@ -1,0 +1,223 @@
+S {
+	[NP] [VP];
+}
+
+NP {
+	[N];
+	[Det] [N];
+}
+
+VP{
+	[V];
+	[V] [NP];
+	[V] [PP];
+}
+
+PP {
+	[Prep] [NP];
+}
+
+Det {
+	the;
+	a;
+}
+
+N {
+	dog;
+	cat;
+	bird;
+}
+
+V {
+	abides;
+accelerates;
+accepts;
+accomplishes;
+achieves;
+acquires;
+acts;
+activates;
+adapts;
+adds;
+addresses;
+administers;
+admires;
+admits;
+adopts;
+advises;
+affords;
+agrees;
+alerts;
+alights;
+allows;
+altereds;
+amuses;
+analyzes;
+announces;
+annoys;
+answers;
+anticipates;
+apologizes;
+appears;
+applauds;
+applieds;
+appoints;
+appraises;
+appreciates;
+approves;
+arbitrates;
+argues;
+arises;
+arranges;
+arrests;
+arrives;
+ascertains;
+asks;
+assembles;
+assesses;
+assists;
+assures;
+attaches;
+attacks;
+attains;
+attempts;
+attends;
+attracts;
+auditeds;
+avoids;
+awakes;
+backs;
+bakes;
+balances;
+bans;
+bangs;
+bares;
+bats;
+bathes;
+battles;
+beams;
+bears;
+beats;
+becomes;
+begs;
+begins;
+behaves;
+beholds;
+belongs;
+bends;
+besets;
+bets;
+bids;
+binds;
+bites;
+bleaches;
+bleeds;
+blesses;
+blinds;
+blinks;
+blots;
+blows;
+blushes;
+boasts;
+boils;
+bolts;
+bombs;
+books;
+bores;
+borrows;
+bounces;
+bows;
+boxes;
+brakes;
+branches;
+breaks;
+breathes;
+breeds;
+briefs;
+brings;
+broadcasts;
+bruises;
+brushes;
+bubbles;
+budgets;
+builds;
+bumps;
+burns;
+bursts;
+buries;
+busts;
+buys;
+buzzes;
+}
+
+Prep {
+	aboard;
+	about;
+	above;
+	across;
+	after;
+	against;
+	along;
+	amid;
+	among;
+	anti;
+	around;
+	as;
+	at;
+	before;
+	behind;
+	below;
+	beneath;
+	beside;
+	besides;
+	between;
+	beyond;
+	but;
+	by;
+	concerning;
+	considering;
+	despite;
+	down;
+	during;
+	except;
+	excepting;
+	excluding;
+	following;
+	for;
+	from;
+	in;
+	inside;
+	into;
+	like;
+	minus;
+	near;
+	of;
+	off;
+	on;
+	onto;
+	opposite;
+	outside;
+	over;
+	past;
+	per;
+	plus;
+	regarding;
+	round;
+	save;
+	since;
+	through;
+	to;
+	toward;
+	towards;
+	under;
+	underneath;
+	unlike;
+	until;
+	up;
+	upon;
+	versus;
+	via;
+	with;
+	within;
+	without;
+}
